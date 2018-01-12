@@ -1,0 +1,19 @@
+CACHE MANIFEST
+# v1 - 2011-08-13
+# Esto es un comentario.
+#/Librerias/bootstrap-3.3.7/dist/js/bootstrap.min.js
+#/Librerias/bootstrap-3.3.7/dist/css/bootstrap.min.css
+#/Librerias/jquery-ui-1.12.0.custom/images/jquery/jquery-2.2.4.min.js
+#libreriaJsNikolas.js
+
+../Librerias/jquery-ui-1.12.0.custom/images/jquery/jquery-2.2.4.min.js
+../libreriaJsNikolas.js
+../Librerias/tether/js/tether.min.js
+../Librerias/bootstrap-4.0.0-alpha.5-dist/js/bootstrap.min.js
+
+../Librerias/tether/js/tether.min.css
+../Librerias/bootstrap-4.0.0-alpha.5-dist/css/bootstrap.min.css
+
+NETWORK:
+index.php
+/index.php
